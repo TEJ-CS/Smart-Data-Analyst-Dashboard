@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -9,7 +11,7 @@ import os
 # =========================
 
 client = Groq(
-    api_key="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"   
+    api_key=os.getenv("GROQ_API_KEY")
 )
 
 # =========================
