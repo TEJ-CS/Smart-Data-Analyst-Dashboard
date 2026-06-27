@@ -1,4 +1,5 @@
 🧠 Smart Data Analyst Dashboard
+
 🚀 Overview
 
 The Smart Data Analyst Dashboard is an AI-powered web application built using Streamlit that allows users to upload CSV/Excel files and instantly generate insights, visualizations, and AI-powered analysis using LLMs (Groq API).
