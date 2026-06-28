@@ -46,10 +46,10 @@ Statistical summary
 -Download AI insights report
 
 🛠️ Tech Stack
--Python 
--Streamlit 
--Pandas 
--Plotly 
--Groq API 
--LLM: LLaMA 3.3 
--dotenv 
+-Python, 
+-Streamlit, 
+-Pandas,
+-Plotly, 
+-Groq API, 
+-LLM: LLaMA 3.3, 
+-dotenv, 
